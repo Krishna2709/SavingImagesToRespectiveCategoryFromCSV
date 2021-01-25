@@ -1,13 +1,13 @@
 # SavingImagesToRespectiveCategoryFromCSV
 Saving the images from train directory to respective categories from a CSV file! <br>
 
-If you have a dataset containing images and a csv file which label those images to their respective labels, you can store them to their respective folders.
+If you have a dataset containing images and a csv file which label those images to their respective labels,
 <br>
-Eg
+train_images.csv contain two labels/categories
 > dataset:
   - train_images
   - train_images.csv <br>
-If train_images.csv contain two labels/categories then <br>
+you can store them to their respective folders as follows
 > dataset:
   - train_images
     - category_1
