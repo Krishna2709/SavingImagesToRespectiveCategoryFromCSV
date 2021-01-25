@@ -6,7 +6,7 @@ If you have a dataset containing images and a csv file which label those images 
 Eg
 > dataset:
   - train_images
-  - train_images.csv
+  - train_images.csv <br>
 If train_images.csv contain two labels/categories then <br>
 > dataset:
   - train_images
